@@ -28,10 +28,10 @@ let container = document.querySelector('header .container');
 
 let h1 = document.querySelector('header h1');
 
-console.log(newDIv);
+console.log(newDiv);
 
 //Changing the fontSize
 
 newDiv.style.fontSize = '30px';
 
-container.insertBefore(newDIv, h1);
+container.insertBefore(newDiv, h1);
